@@ -4,6 +4,8 @@ import { Switch, Route } from "react-router-dom";
 import HomePage from "./pages/homepage/Homepage.jsx";
 import ShopPage from "./pages/shop/Shop.jsx";
 
+import "./App.css";
+
 function App() {
   return (
     <div>
